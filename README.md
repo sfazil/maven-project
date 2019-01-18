@@ -1,5 +1,5 @@
 # maven-project
-Source code for Ramanathan
+Source code for maven
 
 Check out our Latest DevOps PDF book,
 
